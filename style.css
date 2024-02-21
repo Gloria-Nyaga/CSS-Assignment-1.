@@ -1,0 +1,11 @@
+#interior{
+    padding: 20px;
+    margin: 5%;
+    border: solid rgb(5, 60, 141) 4px;
+
+}
+
+#exterior{
+    border : dotted rgb(226, 12, 55) 4px;
+   
+}
